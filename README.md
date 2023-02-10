@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ShlokPunekar
-- 👀 I’m interested in app development
-- 🌱 I’m currently practicing GUI interface
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently practicing Neural Networks
 - 📫 Use my email address to reach out to me:  punekarshlok@gmail.com
